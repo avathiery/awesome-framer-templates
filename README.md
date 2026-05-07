@@ -29,7 +29,7 @@ Framer has become the go-to tool for building fast, beautiful websites without c
 
 Independent shops and creators selling premium Framer templates.
 
-| Shop | Specialty |
+| Creator | Specialty |
 |------|-----------|
 | [Ava Thiery](https://www.avathiery.com/framer-templates) | Wedding, agency, SaaS, café |
 | [Georgi Valkov](https://www.framer.com/@gotingeorgi/) | Portfolio, agency |
@@ -135,4 +135,4 @@ To add a template or resource, reach out directly:
 
 ---
 
-*Maintained by [Ava Thiery](https://www.avathiery.com) · [Submit a template](https://github.com/[your-username]/awesome-framer-templates/issues/new)*
+*Maintained by [Ava Thiery](https://www.avathiery.com) *
