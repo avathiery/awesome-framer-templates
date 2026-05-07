@@ -35,13 +35,11 @@ Independent shops and creators selling premium Framer templates.
 | [Georgi Valkov](https://www.framer.com/@gotingeorgi/) | Portfolio, agency |
 | [Marso Angelov](https://www.framer.com/@designedbymarso/) | SaaS, AI, portfolio |
 | [Sanna Granqvist](https://www.framer.com/@sanna-granqvist/) | Portfolio, studio, agency |
+| [Holygrid](https://holygrid.studio/) | Portfolio, SaaS, landing pages |
 | [Gola Supply](https://www.gola.supply) | SaaS, portfolio, AI startups |
 | [Hamza Ehsan](https://www.hxmzaehsan.com) | Agency, SaaS, portfolio |
 | [Flowmance](https://www.flowmance.com) | Subscription — 420+ templates |
 | [Frameplate](https://frameplate.co) | Mixed — curated directory |
-| [Wizetemplates](https://wizetemplates.com) | SaaS, portfolio |
-| [Createui](https://createui.co) | SaaS, landing pages |
-| [Victorflow](https://victorflow.com) | Agency, SaaS |
 
 ---
 
@@ -64,6 +62,7 @@ High-quality Framer templates you can remix for free.
 
 Templates built for product landing pages, SaaS tools, and AI startups.
 
+- [Feature](https://www.framer.com/marketplace/templates/feature/) — A minimalistic SaaS template for Framer.
 - [Squish](https://www.avathiery.com/framer-templates/squish) — Modern SaaS template with bold color and feature sections.
 - [Stackwise](https://www.framer.com/marketplace/templates/stackwise/) — Clean SaaS layout.
 - [AIthor](https://www.framer.com/marketplace/templates/aithor/) — AI-focused SaaS template.
@@ -76,6 +75,7 @@ Templates for designers, developers, photographers, and solo creators.
 
 - [Fenwick](https://www.framer.com/marketplace/templates/fenwick/) — Portfolio template with clean typography and project showcase.
 - [Hillcrest](https://www.framer.com/marketplace/templates/hillcrest/) — Free portfolio template.
+- [Refined](https://www.framer.com/marketplace/templates/refined/) —  A personal site that does more than look good.
 - [Framer Marketplace — Portfolio](https://www.framer.com/marketplace/) — Filter by Portfolio for a wide selection of community and official templates.
 
 ### Agency & Studio
