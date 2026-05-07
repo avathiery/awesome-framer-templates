@@ -135,4 +135,4 @@ To add a template or resource, reach out directly:
 
 ---
 
-*Maintained by [Ava Thiery](https://www.avathiery.com) *
+*Maintained by [Ava Thiery](https://www.avathiery.com)*
