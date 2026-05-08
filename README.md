@@ -116,6 +116,7 @@ High-quality Framer templates you can remix for free.
 
 Tools and references useful when working with Framer templates.
 
+- [Framer Ranks](https://framer-ranks.com/) — What's winning on Framer Marketplace today.
 - [Framer University](https://framer.university) — Tutorials, courses, and guides for building with Framer.
 - [Framer Community](https://framer.community) — Official forum. Active Showcase section where creators post new templates.
 - [Framer Marketplace](https://www.framer.com/marketplace/) — Framer's official template marketplace.
