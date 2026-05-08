@@ -18,6 +18,7 @@ Framer has become the go-to tool for building fast, beautiful websites without c
   - [Agency & Studio](#agency--studio)
   - [Wedding & Events](#wedding--events)
   - [Café, Restaurant & Food](#café-restaurant--food)
+  - [Real Estate & Interior](#real-estate--interior)
   - [Blog & Newsletter](#blog--newsletter)
   - [E-commerce](#e-commerce)
 - [Resources](#resources)
@@ -31,14 +32,13 @@ Independent shops and creators selling premium Framer templates.
 
 | Creator | Specialty |
 |------|-----------|
-| [Ava Thiery](https://www.avathiery.com/framer-templates) | Wedding, agency, SaaS, café |
+| [Hamza Ehsan](https://www.hxmzaehsan.com) | Agency, SaaS, portfolio |
+| [Timofey Bak — OneTwoFrame](https://onetwoframe.com/) | Agency, AI, real estate, portfolio |
 | [Georgi Valkov](https://www.framer.com/@gotingeorgi/) | Portfolio, agency |
+| [Ava Thiery](https://www.avathiery.com/framer-templates) | Wedding, agency, SaaS, café |
 | [Marso Angelov](https://www.framer.com/@designedbymarso/) | SaaS, AI, portfolio |
 | [Sanna Granqvist](https://www.framer.com/@sanna-granqvist/) | Portfolio, studio, agency |
 | [Holygrid](https://holygrid.studio/) | Portfolio, SaaS, landing pages |
-| [Gola Supply](https://www.gola.supply) | SaaS, portfolio, AI startups |
-| [Hamza Ehsan](https://www.hxmzaehsan.com) | Agency, SaaS, portfolio |
-| [Flowmance](https://www.flowmance.com) | Subscription — 420+ templates |
 | [Frameplate](https://frameplate.co) | Mixed — curated directory |
 
 ---
@@ -49,10 +49,11 @@ High-quality Framer templates you can remix for free.
 
 - [Orchid](https://www.avathiery.com/framer-templates/orchid) — Clean agency template. Minimal layout with image grid and booking CTA.
 - [Das Studio](https://www.avathiery.com/framer-templates/das-studio) — Swiss-inspired studio template. Bold typography, stark whitespace.
-- [Norré](https://www.framer.com/marketplace/templates/norre/) — The Ultimate Free Agency Template.Built for agencies, studios, digital designers and marketers.
-- [Framer Marketplace Free](https://www.framer.com/marketplace/) — Framer's own marketplace includes a growing collection of free community templates.
+- [Norré](https://www.framer.com/marketplace/templates/norre/) — The Ultimate Free Agency Template. Built for agencies, studios, digital designers and marketers.
+- [Housemood](https://onetwoframe.com/templates/housemood) — Free interior design agency template.
+- [Holistic](https://www.hxmzaehsan.com/templates/holistic) — Free wellness template with a soft, modern layout.
 
-*Know a free template that belongs here? [Open a PR](#contributing).*
+*Know a free template that belongs here? [Reach out](#contributing).*
 
 ---
 
@@ -60,57 +61,52 @@ High-quality Framer templates you can remix for free.
 
 ### SaaS & Startups
 
-Templates built for product landing pages, SaaS tools, and AI startups.
-
+- [Effica](https://onetwoframe.com/templates/effica) — Smart AI agency website template.
 - [Feature](https://www.framer.com/marketplace/templates/feature/) — A minimalistic SaaS template for Framer.
 - [Squish](https://www.avathiery.com/framer-templates/squish) — Modern SaaS template with bold color and feature sections.
 - [Stackwise](https://www.framer.com/marketplace/templates/stackwise/) — Clean SaaS layout.
 - [AIthor](https://www.framer.com/marketplace/templates/aithor/) — AI-focused SaaS template.
 - [Zenon](https://www.framer.com/marketplace/templates/zenon/) — Premium SaaS template.
-- [Gola Supply — AI Templates](https://www.gola.supply/blog/ai-framer-templates) — Roundup of the best AI-focused Framer templates in 2026.
 
 ### Portfolio & Personal Brand
 
-Templates for designers, developers, photographers, and solo creators.
-
 - [Fenwick](https://www.framer.com/marketplace/templates/fenwick/) — Portfolio template with clean typography and project showcase.
 - [Hillcrest](https://www.framer.com/marketplace/templates/hillcrest/) — Free portfolio template.
-- [Refined](https://www.framer.com/marketplace/templates/refined/) —  A personal site that does more than look good.
+- [Refined](https://www.framer.com/marketplace/templates/refined/) — A personal site that does more than look good.
+- [UIUXfolio](https://onetwoframe.com/templates/uiuxfolio) — UI/UX designer portfolio template.
+- [Möbius](https://onetwoframe.com/templates/mobius) — Agency and portfolio hybrid template.
 - [Framer Marketplace — Portfolio](https://www.framer.com/marketplace/) — Filter by Portfolio for a wide selection of community and official templates.
 
 ### Agency & Studio
 
-Templates for creative agencies, branding studios, and design firms.
-
+- [Karta](https://onetwoframe.com/templates/karta) — Creative digital agency template.
 - [Orchid](https://www.avathiery.com/framer-templates/orchid) — Free. Clean agency homepage with image grid.
-- [Das Studio](https://www.avathiery.com/framer-templates/das-studio) — Free. Swiss-inspired minimal studio site.
 - [Nocta](https://www.framer.com/marketplace/templates/nocta/) — Bold dark agency template.
 - [Midlands](https://www.framer.com/marketplace/templates/midlands/) — Studio template with editorial layout.
+- [Claura](https://www.hxmzaehsan.com/templates/claura) — Premium agency template built to convert.
+- [Das Studio](https://www.avathiery.com/framer-templates/das-studio) — Free. Swiss-inspired minimal studio site.
+- [Viral](https://www.hxmzaehsan.com/templates/viral) — Social media agency template with bold visuals.
 
 ### Wedding & Events
 
-Templates for couples, wedding planners, and event organizers.
-
-- [Our Day](https://www.avathiery.com/framer-templates/our-day) — Editorial wedding template. Gift registry section, bold typography.
 - [Ceremony](https://www.avathiery.com/framer-templates/ceremony) — Elegant wedding template. Couple story, schedule, venue sections.
-- [Darling](https://www.framer.com/marketplace/templates/darling/) — Mordern Wedding One pager.
-
+- [Darling](https://www.framer.com/marketplace/templates/darling/) — Modern wedding one-pager.
+- [Our Day](https://www.avathiery.com/framer-templates/our-day) — Editorial wedding template. Gift registry section, bold typography.
 
 ### Café, Restaurant & Food
 
-Templates for coffee shops, restaurants, bakeries, and food brands.
-
 - [Matcha Shop](https://www.avathiery.com/framer-templates/matcha-shop) — Modern café template with product showcase and brand story.
 
-### Blog & Newsletter
+### Real Estate & Interior
 
-Templates for writers, newsletter creators, and content-focused sites.
+- [Real](https://onetwoframe.com/templates/real) — Real estate agent template.
+- [Housemood](https://onetwoframe.com/templates/housemood) — Free interior design agency template.
+
+### Blog & Newsletter
 
 - [Framer Marketplace — Blog](https://www.framer.com/marketplace/) — Filter by Blog for community-built blog and newsletter templates.
 
 ### E-commerce
-
-Templates with Shopify integration or product-focused layouts.
 
 - *Have a great e-commerce Framer template? [Submit it](#contributing).*
 
