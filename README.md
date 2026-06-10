@@ -52,6 +52,7 @@ High-quality Framer templates you can remix for free.
 - [Norré](https://www.framer.com/marketplace/templates/norre/) — The Ultimate Free Agency Template. Built for agencies, studios, digital designers and marketers.
 - [Housemood](https://onetwoframe.com/templates/housemood) — Free interior design agency template.
 - [Holistic](https://www.hxmzaehsan.com/templates/holistic) — Free wellness template with a soft, modern layout.
+- [Aurorix](https://www.framer.com/marketplace/templates/aurorix/) — Free modern Portfolio Template.
 
 *Know a free template that belongs here? [Reach out](#contributing).*
 
